@@ -2,9 +2,7 @@ public class Company {
     public static void main (String[] args){
         System.out.println("O CO CHODZI?!");
 
-
-
-        int a == b;
+        Person person1 = new Person("Pawel", "Nieznany", 30);
 
 
     }
