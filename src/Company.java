@@ -5,5 +5,8 @@ public class Company {
         Person person1 = new Person("Pawel", "Nieznany", 30);
         System.out.println(person1.toString());
 
+        Car car1 = new Car(200);
+
+
     }
 }
