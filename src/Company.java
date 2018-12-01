@@ -3,7 +3,7 @@ public class Company {
         System.out.println("O CO CHODZI?!");
 
         Person person1 = new Person("Pawel", "Nieznany", 30);
-
+        System.out.println(person1.toString());
 
     }
 }
